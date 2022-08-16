@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nite-stocker.
 - 👀 I’m interested in reducing clicks for IT Security.
-- 🌱 I’m currently learning PowerShell.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python and Terraform.
+- 💞️ I’m looking to collaborate on AWS Infrastructure as Code.
 - 📫 How to reach me – Email, Teams.
 
 <!---
