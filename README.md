@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @nite-stocker.
-- 👀 I’m interested in reducing clicks for IT Security.
-- 🌱 I’m currently learning Python and Terraform.
-- 💞️ I’m looking to collaborate on AWS Infrastructure as Code.
-- 📫 How to reach me – Email, Teams.
+<h1>👋 Hello! I’m Ryan.</h1>
 
-<!---
-nite-stocker/nite-stocker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+<summary>👤 About</summary>
+<p>
+- I'm a Cyber Incident Responder.
+- I reduce clicks for Incident Response and eDiscovery with PowerShell.
+- I’m learning Python, JavaScript, web scraping, and AWS Infrastructure as Code with Terraform.
+- I enjoy chocolate cake.
+</p>
+</details>
