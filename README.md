@@ -5,10 +5,10 @@
 <p>
 
 
-- I'm a Cyber Incident Responder.
-- I reduce clicks for Incident Response and eDiscovery with PowerShell.
+- I'm a Cybersecurity Incident Responder.
+- I clicks for IR and eDiscovery with PowerShell.
 - I’m learning Python, JavaScript, web scraping, and AWS Infrastructure as Code with Terraform.
-- I enjoy chocolate cake.
+- I love chocolate cake.
 
 
 </p>
