@@ -1,15 +1,11 @@
 <h1 align="center">👋 Hello! I’m Ryan.</h1>
 
-<details>
-<summary>👤 About</summary>
+<h2>👤 About</h2>
 <p>
-
-
-- I'm a Cybersecurity Incident Responder.
-- I reduce clicks for IR and eDiscovery with PowerShell.
-- I’m learning Python, JavaScript, web scraping, and AWS Infrastructure as Code with Terraform.
-- I love chocolate cake.
-
-
+    <ul>
+        <li>I'm a Cybersecurity Incident Responder.<li>
+        <li>I reduce clicks for IR and eDiscovery with PowerShell.<li>
+        <li>I’m learning Python, JavaScript, web scraping, and AWS Infrastructure as Code with Terraform.<li>
+        <li>I love chocolate cake.<li>
+    </ul>
 </p>
-</details>
