@@ -6,7 +6,7 @@
 
 
 - I'm a Cybersecurity Incident Responder.
-- I clicks for IR and eDiscovery with PowerShell.
+- I reduce clicks for IR and eDiscovery with PowerShell.
 - I’m learning Python, JavaScript, web scraping, and AWS Infrastructure as Code with Terraform.
 - I love chocolate cake.
 
